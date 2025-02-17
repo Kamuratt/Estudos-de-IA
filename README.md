@@ -276,3 +276,101 @@ Seguindo esses passos, você estará bem preparado para entrar no mercado de tra
 Esses projetos cobrem uma ampla gama de aplicações e tecnologias, permitindo que você ganhe experiência prática em diferentes áreas da IA. Escolha um projeto que mais lhe interesse e comece a trabalhar nele! Boa sorte!
 
 https://roadmap.sh/ai-data-scientist
+
+
+Claro! Aqui estão algumas opções de **cursos gratuitos** de inteligência artificial (IA) e áreas relacionadas que você pode começar a estudar agora mesmo. Esses cursos são oferecidos por instituições renomadas e plataformas confiáveis, e muitos deles emitem certificados gratuitos ou com opção de pagamento para quem deseja. Vamos às sugestões:
+
+---
+
+### **1. Cursos Gratuitos de IA da FGV (Fundação Getúlio Vargas)**
+A FGV oferece cursos online e gratuitos em IA, com certificado ao final. São opções ideais para quem está começando ou quer se aprofundar em tópicos específicos. Os cursos incluem:
+- **Introdução à Inteligência Artificial**: Conceitos básicos e aplicações.
+- **IA Generativa e o ChatGPT**: Como usar ferramentas de IA para melhorar a eficiência no trabalho.
+- **IA como Ferramenta de Aprendizagem e Pesquisa**: Aplicações práticas em educação e pesquisa.
+- **IA Generativa nas Aulas**: Integração de IA no ensino.
+- **IA para Iniciantes**: Ideal para quem não tem conhecimento prévio.
+
+**Como acessar:** Basta se inscrever na plataforma da FGV [aqui](https://educacao-executiva.fgv.br/cursos/online) .
+
+---
+
+### **2. Cursos Gratuitos da EV.G (Escola Virtual do Governo)**
+A plataforma EV.G oferece cursos gratuitos em IA, com certificação da Enap (Escola Nacional de Administração Pública). Algumas opções incluem:
+- **Inteligência Artificial Generativa**: Como usar ferramentas como GPT-3 e DALL-E.
+- **Inteligência Artificial para Simplificar o Dia a Dia**: Aplicações práticas no cotidiano.
+- **IA Generativo da Microsoft – Copilot**: Uso de IA generativa no trabalho.
+
+**Como acessar:** Inscreva-se na plataforma EV.G [aqui](https://www.ev.org.br) .
+
+---
+
+### **3. Curso "AI Python for Beginners" da DeepLearning.AI**
+Este curso é uma ótima porta de entrada para quem quer aprender Python e IA. Ele é dividido em módulos que cobrem desde os fundamentos de Python até a integração com APIs e aplicações de IA. O curso é gratuito e oferece certificado ao final.
+
+**Como acessar:** Inscreva-se no site da DeepLearning.AI [aqui](https://www.deeplearning.ai) .
+
+---
+
+### **4. Cursos Gratuitos da Microsoft e LinkedIn**
+A Microsoft, em parceria com o LinkedIn, oferece cursos gratuitos sobre IA generativa, incluindo:
+- **Fundamentos para uma Carreira em IA Generativa**: Conceitos básicos e aplicações práticas.
+- **Otimize seu Trabalho com o Microsoft Copilot**: Como usar ferramentas de IA para aumentar a produtividade.
+
+**Como acessar:** Disponível na plataforma do LinkedIn Learning [aqui](https://www.linkedin.com/learning) .
+
+---
+
+### **5. Cursos Gratuitos da Google Cloud**
+A Google Cloud oferece cursos introdutórios sobre IA e machine learning, como:
+- **Introduction to Large Language Models**: Introdução aos modelos de linguagem grandes (LLMs).
+- **Responsible AI: Applying AI Principles**: Como aplicar princípios éticos na IA.
+
+**Como acessar:** Disponível na plataforma da Google Cloud [aqui](https://cloud.google.com/training) .
+
+---
+
+### **6. Cursos Gratuitos da Universidade de Helsinque (Elements of AI)**
+Este curso é uma introdução não técnica à IA, ideal para quem quer entender os conceitos básicos sem se aprofundar em programação. O curso é gratuito e oferece certificado ao final.
+
+**Como acessar:** Inscreva-se no site [Elements of AI](https://www.elementsofai.com) .
+
+---
+
+### **7. Cursos Gratuitos da Oracle (Oracle Next Generation - ONE)**
+O programa ONE da Oracle oferece uma formação gratuita de 12 meses em tecnologia, incluindo IA e programação. É uma ótima opção para quem quer se capacitar de forma abrangente.
+
+**Como acessar:** Inscreva-se no site da Oracle [aqui](https://www.oracle.com/br/education/oracle-next-education) .
+
+---
+
+### **8. Cursos Gratuitos da StartSe em Parceria com a IBM**
+O curso **"IA para Todos"** ensina fundamentos de IA, ética e impacto social. É uma ótima opção para quem quer uma visão geral da área.
+
+**Como acessar:** Inscreva-se no site da StartSe [aqui](https://www.startse.com) .
+
+---
+
+### **9. Cursos Gratuitos da Universidade de Stanford (Coursera)**
+A Universidade de Stanford oferece o curso **"Introdução ao Machine Learning"**, ministrado por Andrew Ng. O curso é gratuito para assistir, e você pode pagar pelo certificado, se desejar.
+
+**Como acessar:** Inscreva-se na Coursera [aqui](https://www.coursera.org/learn/machine-learning) .
+
+---
+
+### **10. Cursos Gratuitos da Udacity**
+A Udacity oferece o curso **"Introdução à Inteligência Artificial"**, que aborda fundamentos de IA, redes neurais e processamento de linguagem natural. O curso é gratuito, mas o certificado é pago.
+
+**Como acessar:** Inscreva-se na Udacity [aqui](https://www.udacity.com) .
+
+---
+
+### **Dicas para Escolher o Curso Ideal**
+1. **Nível de Conhecimento:** Se você é iniciante, comece com cursos introdutórios como "Elements of AI" ou "IA para Iniciantes" da FGV.
+2. **Foco em Programação:** Se quer focar em Python e IA, o curso da DeepLearning.AI é uma ótima opção.
+3. **Aplicações Práticas:** Para aprender a usar ferramentas como ChatGPT e DALL-E, os cursos da EV.G e Microsoft são ideais.
+4. **Certificação:** Se precisa de um certificado, priorize cursos como os da FGV ou Google Cloud, que oferecem certificados gratuitos ou acessíveis.
+
+---
+
+### **Conclusão**
+Essas são ótimas opções para começar a estudar IA sem gastar nada. Aproveite os recursos gratuitos e, à medida que avançar, você pode considerar investir em cursos mais avançados ou especializados. Boa sorte nos estudos! 😊
