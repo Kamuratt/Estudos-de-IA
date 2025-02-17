@@ -274,3 +274,5 @@ Seguindo esses passos, você estará bem preparado para entrar no mercado de tra
      5. Experimente diferentes técnicas de feature engineering.
 
 Esses projetos cobrem uma ampla gama de aplicações e tecnologias, permitindo que você ganhe experiência prática em diferentes áreas da IA. Escolha um projeto que mais lhe interesse e comece a trabalhar nele! Boa sorte!
+
+https://roadmap.sh/ai-data-scientist
